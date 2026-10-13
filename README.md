@@ -103,12 +103,13 @@ A MERN stack project focused on managing society-related information and operati
 
 ## 🐍 Contribution Activity
 
+
 <div align="center">
-
-<!-- Optional: Enable the contribution snake workflow described below -->
-
-<img src="https://raw.githubusercontent.com/harshkumar513/harshkumar513/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-
+  <img
+    src="https://raw.githubusercontent.com/harshkumar513/harshkumar513/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </div>
 
 ---
