@@ -55,99 +55,64 @@ Hi! I'm **Harsh Kumar**, a passionate MERN Stack Developer who enjoys building m
 
 ## 🚀 Featured Projects
 
-### 📚 EduLearn — E-Learning Platform
 
-A web-based learning platform designed to support online education.
+<h2 align="center">🚀 Featured Projects</h2>
 
-* 👤 User and admin modules
-* 🔗 Frontend and backend API integration
-* 💳 Razorpay payment integration
-* ☁️ Deployment using Vercel and Render
+<p align="center">
+  A showcase of my full-stack development projects.
+</p>
 
-**Technologies:** React.js, JavaScript, Node.js, MongoDB, Razorpay
-
-<!-- Replace the links below with your actual project URLs -->
-
-[🔗 Live Demo](https://elearning-frontend-3k7r.vercel.app/) · [📂 Frontend Repository](https://github.com/harshkumar513/E-learning-frontend)
-
-### 🏢 Society Management System
-
-A MERN stack project focused on managing society-related information and operations.
-
-* ⚛️ React-based frontend
-* 🟢 Node.js and Express.js backend
-* 🍃 MongoDB database
-* 🔌 API integration between frontend and backend
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB
-
-[📂 View My GitHub Repositories](https://github.com/harshkumar513?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshkumar513&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar513&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=harshkumar513&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/harshkumar513/harshkumar513/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/harshkumar513">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<!-- Replace with your real LinkedIn profile URL -->
-
-<a href="
-https://www.linkedin.com/in/harsh-kumar-11743b2b0">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<!-- Replace with your professional email -->
-
-<a href="rajputharsh2323@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-**"Keep learning, keep building, and keep growing."** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=100&section=footer" width="100%" />
-
-</div>
-
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 EduLearn</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN-Full%20Stack-06b6d4?style=for-the-badge" />
+      </p>
+      <p>
+        An e-learning platform built to support online education,
+        with user and admin modules and payment integration.
+      </p>
+      <p><strong>Tech Stack</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://elearning-frontend-3k7r.vercel.app/">
+          <strong>🌐 Live Demo</strong>
+        </a>
+        &nbsp; | &nbsp;
+        <a href="https://github.com/harshkumar513/E-learning-frontend">
+          <strong>💻 Source Code</strong>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Society Management System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN-Project-7c3aed?style=for-the-badge" />
+      </p>
+      <p>
+        A society management application focused on organizing
+        society-related information and management operations.
+      </p>
+      <p><strong>Tech Stack</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/harshkumar513?tab=repositories">
+          <strong>💻 View Repositories</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
