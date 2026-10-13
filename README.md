@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Kumar
 
-<!--
-**harshkumar513/harshkumar513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 MERN Stack Developer | Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer who enjoys building web applications using modern technologies. I love learning new things and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on a **Satyamev jyate**
+* 🌱 Learning and improving my skills in **React.js,Express,Node.js and TypeScript**
+* 💻 Interested in **Full Stack Web Development**
+* 🎯 Goal: To become a skilled software developer
+
+### 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React.js
+**Backend:** Node.js, Express.js
+**Database:** MongoDB, MySQL, PostgreSQL
+**Tools:** Git, GitHub, VS Code, Postman
+
+### 🚀 Projects
+
+* **Society Management System** — A MERN stack application.
+* **EduLearn** — An e-learning platform with user and admin modules.
+
+### 🤝 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/harsh-kumar-11743b2b0
+* 📧 Email: rajputharsh2323@gmail.com
+* 🐙 GitHub: [harshkumar513](https://github.com/)
+
