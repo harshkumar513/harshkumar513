@@ -23,7 +23,7 @@
 
 Hi! I'm **Harsh Kumar**, a passionate MERN Stack Developer who enjoys building modern, responsive and user-friendly web applications.
 
-* 🔭 Currently working on a **Society Management System**
+* 🔭 Currently working on a **Satyamev jyate**
 * 🌱 Improving my skills in React.js, Node.js and full-stack development
 * 💻 Interested in building real-world web applications
 * 🚀 Love learning new technologies and solving coding problems
@@ -123,13 +123,14 @@ A MERN stack project focused on managing society-related information and operati
 
 <!-- Replace with your real LinkedIn profile URL -->
 
-<a href="https://www.linkedin.com/">
+<a href="
+https://www.linkedin.com/in/harsh-kumar-11743b2b0">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <!-- Replace with your professional email -->
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="rajputharsh2323@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
